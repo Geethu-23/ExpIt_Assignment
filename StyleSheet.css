@@ -1,0 +1,22 @@
+﻿body
+{
+    background-color:#F0FFFF;
+}
+h1{
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:crimson;
+}
+li{
+    color:crimson;
+    font-size:x-large;
+    font-weight:bold;
+}
